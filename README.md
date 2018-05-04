@@ -49,6 +49,8 @@ SourceFiles --
 
 
 ## Acknowledgments
+*Thank you to my professor Morten Hjorth-Jensen. https://github.com/mhjensen
+
 *Special thanks to: Joseph Slivka, Casey Chartier, and Zhiyang Yu my CMSE 202 final project team
 
 *prtkm from Github(Dec. 2014) Monte-Carlo Simulations of the 2-D Ising Model.
